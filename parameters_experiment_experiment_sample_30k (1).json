@@ -1,8 +1,0 @@
-{
-  "k": 100,
-  "b": 20,
-  "r": 5,
-  "JACCARD_THRESHOLD": 0.5,
-  "num_docs": 30000,
-  "vocab_size": 53314
-}
